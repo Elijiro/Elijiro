@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/1200x/67/7a/35/677a3527511f8043e903a8da247c1458.jpg"/></div>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xau3ylll2c7dp4tooeef3omtnq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=ff0a0a)](https://spotify-github-profile.kittinanx.com/api/view?uid=31xau3ylll2c7dp4tooeef3omtnq&redirect=true)
+https://spotify-github-profile.kittinanx.com/
 <!--
 **Elijiro/Elijiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
