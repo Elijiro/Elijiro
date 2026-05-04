@@ -2,7 +2,8 @@
 
 <img src="https://i.pinimg.com/1200x/67/7a/35/677a3527511f8043e903a8da247c1458.jpg"/></div>
 
-![SoundCloud Track](https://vercel.app)
+[![SoundCloud](https://shields.io)](YOUR_SOUNDCLOUD_URL)
+
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31c343j6hmxinoewvbq7jyl5yoyu&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31c343j6hmxinoewvbq7jyl5yoyu&redirect=true)
 
